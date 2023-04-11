@@ -1,2 +1,2 @@
 # DIO-Flutter-Specialist-Desafio-2
-Repositório dedicado ao Desafio 2 do Bootcamp Flutter Specialist da DIO
+Repositório dedicado ao Desafio 2 do Flutter Specialist da DIO
